@@ -1,4 +1,4 @@
-const server = 'http://localhost:8080';
+const server = 'http://89.169.4.94:8080';
 
 window.player = null;
 let auth = false;
